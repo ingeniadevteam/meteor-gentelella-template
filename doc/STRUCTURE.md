@@ -11,6 +11,10 @@ rm server/*
 echo "import '/imports/startup/server';" > server/main.js
 
 # create the app structure
+mkdir i18n
+touch i18n/i18n.js
+
+# create the app structure
 mkdir imports
 
 # startup

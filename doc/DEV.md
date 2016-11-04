@@ -12,4 +12,5 @@ touch doc/STRUCTURE.md
 ```
 
 Create the [app structure](STRUCTURE.md)
+
 Setup [packages](PACKAGES.md)
