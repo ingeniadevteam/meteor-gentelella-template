@@ -1,4 +1,4 @@
-# Meteor with Gentelela Bootstrap template
+# Meteor with Gentelella Bootstrap template
 
 ## Run the app
 
