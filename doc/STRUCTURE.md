@@ -75,6 +75,11 @@ touch imports/ui/footer/footer.js
 
 mkdir imports/ui/pages
 
+# dashboard
+mkdir imports/ui/pages/dashboard
+touch imports/ui/pages/dashboard/dashboard.html
+touch imports/ui/pages/dashboard/dashboard.js
+
 # user pages
 mkdir imports/ui/pages/user
 touch imports/ui/pages/user/login.html

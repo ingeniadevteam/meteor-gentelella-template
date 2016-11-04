@@ -1,0 +1,12 @@
+<template name="defaultLayout">
+  <div class="wrapper">
+    {{> Template.dynamic template=sidebar}}
+    <div class="main-panel">
+      {{> Template.dynamic template=navbar}}
+      {{> Template.dynamic template=content}}
+      <footer class="footer">
+        {{> Template.dynamic template=footer}}
+      </footer>
+    </div>
+  </div>
+</template>
