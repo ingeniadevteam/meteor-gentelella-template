@@ -11,4 +11,4 @@ touch doc/DEV.md
 touch doc/STRUCTURE.md
 ```
 
-Create the [app structure](doc/STRUCTURE.md)
+Create the [app structure](STRUCTURE.md)
